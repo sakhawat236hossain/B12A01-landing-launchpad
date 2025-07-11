@@ -1,0 +1,272 @@
+
+.beckgurn{
+    background-image: url('../Assets/Hero-bg.png');
+padding-top: 50px;
+
+
+
+  
+    
+}
+
+
+.nave{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 100px;
+
+
+}
+.nave button{
+    border: none;
+    padding: 15px;
+}
+
+.header-section{
+    padding-top: 150px;
+    
+
+}
+
+.btn{
+
+background-color: blue;
+
+
+border-radius: 15px;
+color: white;
+
+
+}
+
+.main-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+        margin-right: 100px;
+    margin-left: 100px;
+}
+
+
+.title{
+    
+    text-align: center;
+    font-size: 50px;
+    align-items: center;
+}
+
+
+.logo{
+    color: rgb(78, 71, 255);
+    font-size: 50px;
+   
+}
+
+.main-container{
+    display: flex;
+    justify-content: space-between;
+
+
+  
+  align-items: center
+}
+
+.main-btn{
+  align-items: center;
+    text-align: center;
+    margin-bottom: 30px;
+}
+ .btn-2{
+    background-color: blue;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    color: wheat;
+}
+
+
+.main-title{
+    color: rgb(37, 36, 50);
+    font-size: 42px;
+    font-weight: 700;
+}
+.title-container{
+font-weight: 400;
+font-size: 24px;
+
+color: rgba(37, 36, 50, 0.5);
+
+
+}
+
+.main-img{
+ border-radius: 48px;
+
+}
+
+
+/* .img-2{
+    border-radius: 20px;
+} */
+
+
+.bunner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+
+   
+}
+
+.card-title{
+    color: rgb(78, 71, 255);
+    font-size:50px ;
+}
+
+
+.description{
+
+        background-color:rgba(78, 71, 255, 0.1) ;
+
+    margin-top: 40px;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+
+}
+
+
+.card-bennur{
+   display: flex;
+   justify-content: space-around;
+   gap: 25px;
+
+
+   
+}
+
+.card{
+   
+border: 1px solid rgb(242, 237, 237);
+border-radius: 14px;
+
+background: rgba(255, 255, 255, 0.5);
+padding: 10px;
+}
+
+
+.title-1{
+    font-size: 24px;
+font-weight: 600;
+}
+
+.p{
+  font-size: 16px;
+font-weight: 400;  
+}
+.img-title{
+    font-size: 16px;
+font-weight: 600;
+color: rgb(117, 117, 117);
+}
+
+
+.avatar{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.avatar img{
+width: 50px;
+height: 50px;
+border-radius: 30px;
+}
+
+
+
+
+
+.login-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+    /* justify-content: flex-start; */
+
+    
+    
+
+}
+
+.submit{
+border-radius: 10px;
+
+/* Primary Color */
+background: rgb(78, 71, 255);
+
+padding: 10px;
+width: 100%;
+border: none;
+margin-top: 20px;
+    
+}
+
+
+.login-bunner{
+   width: 100%;
+}
+.login-title{
+    width: 100%;
+}
+#message{
+border: 1px solid rgb(214, 221, 237);
+border-radius: 5px;
+
+background: rgb(255, 255, 255);
+padding: 25px;
+width: 100%;
+    
+}
+#input{
+
+border: 1px solid rgb(214, 221, 237);
+border-radius: 5px;
+
+background: rgb(255, 255, 255);
+padding: 15px;
+width: 100%;
+
+}
+
+
+
+
+
+
+ .footer-section{
+    align-items: center;
+    text-align: center;
+    margin-bottom: 100px;
+ 
+}
+
+
+.footer-card{
+    display: flex;
+  justify-content: center;
+    list-style: none;
+    font-weight: 400;
+    font-size: 16px;
+    color: rgb(137, 135, 161);
+    gap: 20px;
+
+}
+.footer-title{
+   
+    font-weight: 400;
+    font-size: 16px;
+    color: rgb(137, 135, 161);
+}
+
+
